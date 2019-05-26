@@ -1,0 +1,15 @@
+{
+  "name": "simple-graphql-api",
+  "version": "1.0.0",
+  "description": "send message, get message, listen message",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budi Fajri Arzi",
+  "license": "ISC"
+}
